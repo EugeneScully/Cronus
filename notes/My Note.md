@@ -11,7 +11,4 @@ It supports lists
 
 [comment]: <> (a reference style link.)
 
-<!---
-your comment goes here
-and here
--->
+<!--- your comment goes here -->
