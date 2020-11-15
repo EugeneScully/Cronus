@@ -8,3 +8,5 @@ It supports lists
 * item 2
 
 [Drag Drop Demo] https://blazorfiddle.com/s/8jurefka
+
+[comment]: <> (a reference style link.)
