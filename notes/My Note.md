@@ -15,9 +15,5 @@ It supports lists
 
 <!---
  your comment goes here too
---><!-- SEG REF AQ9XJAKD -->
-Test 123
-<!-- SEG REF ANJCTBOR -->
-Add another segment
-<!-- SEG REF YCY39RE8 -->
-Add test text again
+-->
+
