@@ -1,4 +1,4 @@
-<!-- GSREF ABCDEFG -->
+<!--GSREF-->
 # GitScribe Notes
 
 This is a note taking application
@@ -12,5 +12,5 @@ It supports lists
 
 [comment]: <> (a reference style link.)
 
-<!-- GSREF EDNKE4AG -->
+<!--GSREF-->
 ## A sub heading
