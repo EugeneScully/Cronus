@@ -28,3 +28,5 @@ And some more text
 
 <!--GSREF-->
 asdasd
+<!--GSREF-->
+asdasdasdasd
