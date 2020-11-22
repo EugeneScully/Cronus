@@ -30,3 +30,7 @@ And some more text
 asdasd
 <!--GSREF-->
 asdasdasdasd
+<!--GSREF-->
+Test
+Test
+Test
