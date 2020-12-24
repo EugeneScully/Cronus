@@ -18,3 +18,7 @@ It supports lists
 Some more text
 <!--GSREF6XTQEG-->
 And some more text
+
+<!--GSREFYC3W4Q-->
+A test
+`+1 damage`
