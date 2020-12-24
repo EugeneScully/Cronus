@@ -12,10 +12,10 @@ It supports lists
 
 [comment]: <> (a reference style link.)
 
-<!--GSREFZ0LCRX-->
-## A sub heading
 <!--GSREFNZ6XZ6-->
 Some more text
+<!--GSREFZ0LCRX-->
+## A sub heading
 <!--GSREF6XTQEG-->
 And some more text
 
