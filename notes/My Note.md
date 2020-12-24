@@ -1,4 +1,4 @@
-<!--GSREF-->
+<!--GSREFLQHDI8-->
 # GitScribe Notes
 
 This is a note taking application
@@ -12,13 +12,13 @@ It supports lists
 
 [comment]: <> (a reference style link.)
 
-<!--GSREF-->
+<!--GSREFZ0LCRX-->
 ## A sub heading
-<!--GSREF-->
+<!--GSREFNZ6XZ6-->
 Some more text
-<!--GSREF-->
+<!--GSREF6XTQEG-->
 And some more text
-<!--GSREF-->
+<!--GSREF8CBMS3-->
 
 
 
@@ -26,21 +26,15 @@ And some more text
 
 
 
-<!--GSREF-->
+<!--GSREF8M4KV1-->
 asdasd
-<!--GSREF-->
+<!--GSREFWM2XHI-->
 asdasdasdasd
-<!--GSREF-->
+<!--GSREFE754PJ-->
 Test
 Test
 Test
 
-<!--GSREF55U21A-->
-https://www.google.com
-<!--GSREFO4ZGA0-->
-http://www.google.com/
-<!--GSREF6JKX3Y-->
-https://www.google.com
 <!--GSREF3467T4-->
 https://www.youtube.com/watch?v=kkwykq8jxd8
 <!--GSREF900VTY-->
