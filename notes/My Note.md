@@ -14,11 +14,10 @@ It supports lists
 
 <!--GSREFNZ6XZ6-->
 Some more text
-<!--GSREFZ0LCRX-->
+<!--GSREFYC3W4Q-->
+A test
+`+1 damage`<!--GSREFZ0LCRX-->
 ## A sub heading
 <!--GSREF6XTQEG-->
 And some more text
 
-<!--GSREFYC3W4Q-->
-A test
-`+1 damage`
