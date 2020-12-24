@@ -18,20 +18,3 @@ It supports lists
 Some more text
 <!--GSREF6XTQEG-->
 And some more text
-<!--GSREF8CBMS3-->
-
-
-
-
-
-
-
-<!--GSREF8M4KV1-->
-asdasd
-<!--GSREFWM2XHI-->
-asdasdasdasd
-<!--GSREFE754PJ-->
-Test
-Test
-Test
-
