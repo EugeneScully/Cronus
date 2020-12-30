@@ -40,20 +40,3 @@ It is a long established fact that a reader will be distracted by the readable c
 > Coffee. The finest organic suspension ever devised... I beat the Borg with it.
 > - Captain Janeway
 
-
-<!--GSREF0CSWIB-->
-T
-<!--GSREFPBSD21-->
-Tte
-<!--GSREFBI7MTA-->
-Tt
-<!--GSREFGY4J4Z-->
-Ttes
-<!--GSREFTFEQBG-->
-Ttest
-<!--GSREFYZAREG-->
-
-<!--GSREFIJR0XO-->
-a
-<!--GSREFRBLW2U-->
-av
