@@ -60,3 +60,9 @@ https://medium.com/swlh/are-you-ready-for-your-new-bank-account-99a5aeab5557
 <!--GSREFIFK4UY-->
 [Are You Ready for Your New Bank Account?](https://medium.com/swlh/are-you-ready-for-your-new-bank-account-99a5aeab5557)
 The Digital Dollar is coming sooner than you think. What will this mean for you?
+<!--GSREFQDDGR4-->
+https://medium.com/swlh/are-you-ready-for-your-new-bank-account-99a5aeab5557
+<!--GSREF6WS4L4-->
+**Are You Ready for Your New Bank Account?**
+[Link](https://medium.com/swlh/are-you-ready-for-your-new-bank-account-99a5aeab5557)
+The Digital Dollar is coming sooner than you think. What will this mean for you?
