@@ -56,9 +56,10 @@ Quote break.
 
 
 
-<!--GSREFQDDGR4-->
+
+<!--GSREF5WT6FZ-->
 https://medium.com/swlh/are-you-ready-for-your-new-bank-account-99a5aeab5557
-<!--GSREF6WS4L4-->
+<!--GSREFVCCLJ5-->
 **Are You Ready for Your New Bank Account?**
 [Link](https://medium.com/swlh/are-you-ready-for-your-new-bank-account-99a5aeab5557)
 The Digital Dollar is coming sooner than you think. What will this mean for you?
