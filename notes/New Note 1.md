@@ -7,7 +7,11 @@
 <!--GSREFAZALOU-->
 - Return button sends note automatically ? Or use Shift+Enter ?
 - Share notes for editing via URL
-- Read/Write permissions<!--GSREFKODP4M-->
+- Read/Write permissions
+<!--GSREF118BPZ-->
+- Edit
+- Check URL metadata retrieve
+<!--GSREFKODP4M-->
 #### Bugs
 
 - New Note doesn't work?
