@@ -4,13 +4,13 @@
 - Block quote parser
 - Rename a note
 
+<!--GSREFAZALOU-->
+- Return button sends note automatically ? Or use Shift+Enter ?
+- Share notes for editing via URL
+- Read/Write permissions
 <!--GSREFPEAD3L-->
 - Edit<!--GSREFKODP4M-->
 #### Bugs
 
 - New Note doesn't work?
 - Since store notes takes a few seconds, when nagivating quickly after a change, note isn't saved
-<!--GSREFAZALOU-->
-- Return button sends note automatically ? Or use Shift+Enter ?
-- Share notes for editing via URL
-- Read/Write permissions
