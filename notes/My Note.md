@@ -54,7 +54,5 @@ Quote break.
 
 
 
-<!--GSREFLE6I2E-->
-https://medium.com/swlh/are-you-ready-for-your-new-bank-account-99a5aeab5557
 <!--GSREFETPTA5-->
 https://medium.com/swlh/are-you-ready-for-your-new-bank-account-99a5aeab5557
