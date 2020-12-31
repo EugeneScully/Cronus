@@ -3,7 +3,9 @@
 <!--GSREFXUFQIP-->
 - Block quote parser
 - Rename a note
-<!--GSREFKODP4M-->
+
+<!--GSREFPEAD3L-->
+- Edit<!--GSREFKODP4M-->
 #### Bugs
 
 - New Note doesn't work?
